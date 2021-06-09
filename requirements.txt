@@ -1,0 +1,11 @@
+numpy
+scipy
+matplotlib
+cython
+seaborn
+pandas
+statsmodels
+torch
+torchdiffeq
+pyhmc
+pyro-ppl
