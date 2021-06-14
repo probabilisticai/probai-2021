@@ -7,7 +7,7 @@ Recorded lectures and tutorials, slides and program code from the Nordic Probabi
 ## Lectures and Tutorials
 
 * Day 1 (June 14):
-  * [[slides](https://github.com/probabilisticai/probai-2021/tree/master/day1/introduction_to_probabilistic_modelling.pdf)] Antonio Salmerón - Introduction to Probabilistic Models
+  * [[slides](TBA)] Antonio Salmerón - Introduction to Probabilistic Models
   * [[slides](https://github.com/PGM-Lab/probai-2021-pyro/blob/main/Day1/slides-Day1.pdf), [notebooks](https://github.com/PGM-Lab/probai-2021-pyro/tree/main/Day1/notebooks)] Andrés R. Masegosa & Thomas D. Nielsen - Probabilistic Programming
 * Day 2 (June 15):
   * 
