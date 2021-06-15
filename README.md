@@ -10,11 +10,9 @@ Recorded lectures and tutorials, slides and program code from the Nordic Probabi
   * [[materials](https://github.com/probabilisticai/probai-2021/tree/main/Day1/2_antonio)] Antonio Salmerón - Introduction to Probabilistic Models
   * [[slides](https://github.com/PGM-Lab/probai-2021-pyro/blob/main/Day1/slides-Day1.pdf), [notebooks](https://github.com/PGM-Lab/probai-2021-pyro/tree/main/Day1/notebooks)] Andrés R. Masegosa & Thomas D. Nielsen - Probabilistic Programming
 * Day 2 (June 15):
-  *
+  * [[slides](https://github.com/probabilisticai/probai-2021/tree/main/Day2/2_klami)] Arto Klami – Variational Inference and Optimization (part 1)
 * Day 3 (June 16):
-  *
 * Day 4 (June 17):
-  *
 * Day 5 (June 18):
   * [[slides](https://github.com/probabilisticai/probai-2021/tree/master/day5/flows.pdf)] Didrik Nielsen - Normalizing Flows and PixelCNN
 
