@@ -16,4 +16,5 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
   * [[materials](https://github.com/PGM-Lab/probai-2021-pyro/tree/main/Day3)] Andrés R. Masegosa & Thomas D. Nielsen – Variational Inference and Probabilistic Programming (part 2)
 * Day 4 (June 17):
   * [[slides](https://github.com/probabilisticai/probai-2021/tree/main/Day4/2_aziz)] Wilker Aziz - Deep Discrete Latent Variable Models
+  * [[notebook](https://colab.research.google.com/drive/1znA-K9F4C7Rp-uN13wFb9daHfzmdDRas?usp=sharing), [slides](https://github.com/probabilisticai/probai-2021/blob/main/Day4/slides.pdf)] Francisco J. R. Ruiz - Variational Inference with Implicit and Semi-Implicit Distributions
 * Day 5 (June 18):
