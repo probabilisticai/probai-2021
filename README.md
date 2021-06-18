@@ -18,5 +18,5 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
   * [[slides](https://github.com/probabilisticai/probai-2021/tree/main/Day4/1_aziz)] Wilker Aziz - Deep Discrete Latent Variable Models
   * [[notebook](https://colab.research.google.com/drive/1znA-K9F4C7Rp-uN13wFb9daHfzmdDRas?usp=sharing), [slides](https://github.com/probabilisticai/probai-2021/blob/main/Day4/slides.pdf)] Francisco J. R. Ruiz - Variational Inference with Implicit and Semi-Implicit Distributions
 * Day 5 (June 18):
-  * [[notebook]](https://colab.research.google.com/drive/1SW3VE8KqFWvyDIyMhaEbzQIFPijJc2IJ?usp=sharing) Didrik Nielsen - Normalizing Flows and PixelCNN
+  * [[notebook]](https://colab.research.google.com/drive/1SW3VE8KqFWvyDIyMhaEbzQIFPijJc2IJ?usp=sharing) [[solution]](https://colab.research.google.com/drive/1RVvYC6CyxrWuxngtgZ0nWaQJDE8XmSli?usp=sharing) Didrik Nielsen - Normalizing Flows and PixelCNN
   * [[notebook]](https://colab.research.google.com/drive/1UwhrYiPiIx9q7Lb8m8TZNe5teJ_fUPmA?usp=sharing) Çağatay Yıldız - Neural ODE & ODE2VAE
