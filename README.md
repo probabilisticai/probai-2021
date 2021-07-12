@@ -20,4 +20,4 @@ Materials of the Nordic Probabilistic AI School ([ProbAI](https://www.probabilis
 * Day 5 (June 18):
   * [[slides](http://elarosca.net/prob_ai_2021.pdf)] Mihaela Rosca - How to Build a GAN Loss from Distributional Divergences and Distances
   * [[slide](https://github.com/probabilisticai/probai-2021/tree/main/Day5/2_nielsen/normalizing_flows.pdf), [notebook](https://colab.research.google.com/drive/1SW3VE8KqFWvyDIyMhaEbzQIFPijJc2IJ?usp=sharing) [[solution]](https://colab.research.google.com/drive/1RVvYC6CyxrWuxngtgZ0nWaQJDE8XmSli?usp=sharing)] Didrik Nielsen - Normalizing Flows
-  * [[notebook](https://colab.research.google.com/drive/1UwhrYiPiIx9q7Lb8m8TZNe5teJ_fUPmA?usp=sharing)] Çağatay Yıldız - Neural ODE & ODE2VAE
+  * [[notebook](https://colab.research.google.com/drive/1ygdXFuih_0sLA2HosQkaVQOA9v6BMSdj?usp=sharing)] Çağatay Yıldız - Neural ODE & ODE2VAE
